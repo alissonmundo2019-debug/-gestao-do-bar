@@ -1,0 +1,1 @@
+1) Execute supabase_bootstrap.sql no SQL Editor. 2) Publique esta pasta em uma hospedagem estática. 3) Abra no celular e crie sua conta. 4) Use a mesma conta em outros aparelhos.
